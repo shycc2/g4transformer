@@ -1,0 +1,2 @@
+﻿d_model,layer_num,nhead,dim_feedforward,dropout,learning_rate,epochs,batch_size,validation_split
+64,2,8,128,0.1,1.00E-06,10,64,0.2
